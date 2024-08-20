@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: org.NaerDD.zzz.ScreenshotListener
+Class-Path: lib/jnativehook-2.2.2.jar
+
